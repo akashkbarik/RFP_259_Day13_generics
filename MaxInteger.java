@@ -10,6 +10,6 @@ public class MaxInteger {
 
     public static void main(String[] args) {
         MaxInteger maxInteger = new MaxInteger();
-        System.out.println("maximum number is : "+maxInteger.FindMaxNumber(1,2,3));
+        System.out.println("maximum number is : " + maxInteger.FindMaxNumber(1, 2, 3));
     }
 }
